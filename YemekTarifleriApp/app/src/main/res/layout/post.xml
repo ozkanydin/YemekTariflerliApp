@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingTop="105dp">
+
+    <ImageView
+        android:id="@+id/rcyemek_foto"
+        android:layout_width="match_parent"
+        android:layout_height="201dp"
+        android:paddingTop="25dp"
+        tools:srcCompat="@tools:sample/avatars[0]"
+        />
+
+    <TextView
+        android:id="@+id/rcyemek_tur"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Yemek Tür"
+        android:paddingLeft="12dp"/>
+
+    <TextView
+        android:id="@+id/rcyemek_paylasan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dp"
+        android:text="Yemek Paylaşan" />
+
+    <TextView
+        android:id="@+id/rcyemek_isim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Yemek İsim"
+        android:textAlignment="center"
+        android:textDirection="locale"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/rcyemek_icerik"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Yemek İçerik"
+        android:textSize="14sp"
+        android:paddingLeft="12dp"/>
+
+    <TextView
+        android:id="@+id/rcyemek_hazir"
+        android:layout_width="match_parent"
+        android:layout_height="276dp"
+        android:paddingLeft="18dp"
+        android:text="Yemek_hazir"
+        android:textAlignment="viewStart"
+        android:textSize="24sp"
+        android:textStyle="italic" />
+</LinearLayout>

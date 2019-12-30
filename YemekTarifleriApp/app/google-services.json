@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652646875910",
+    "firebase_url": "https://yemektarifleriapp-ff9c9.firebaseio.com",
+    "project_id": "yemektarifleriapp-ff9c9",
+    "storage_bucket": "yemektarifleriapp-ff9c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652646875910:android:67369e56a0f1d350779487",
+        "android_client_info": {
+          "package_name": "com.example.yemektarifleriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652646875910-1jfus4p9h9v5sm99vvu8o6tiru0obrvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbBaOGEdm9lj9bv81rG8XWZ7AYYUrKySA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652646875910-1jfus4p9h9v5sm99vvu8o6tiru0obrvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
